@@ -1,7 +1,7 @@
 ---
 home: true
 title: Home
-heroImage: https://vuejs.press/images/hero.png
+heroImage: https://github.com/xiaobianmu/hzyblog/blob/main/%E4%B9%8C%E5%85%B0%E9%BA%A6%E6%9C%B5%E5%A4%B4%E5%83%8F2.png
 actions:
   - text: Get Started
     link: /get-started.html
