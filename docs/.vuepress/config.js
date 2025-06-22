@@ -11,7 +11,14 @@ export default defineUserConfig({
 
   theme: defaultTheme({
     logo: 'https://vuejs.press/images/hero.png',
-
+     locales: {
+      '/': {
+        selectLanguageName: 'English',
+      },
+      '/zh/': {
+        selectLanguageName: '简体中文',
+      },
+    },
     navbar: [
       '/',
       {
