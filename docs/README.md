@@ -3,7 +3,7 @@ home: true
 title: Home
 heroImage: https://raw.githubusercontent.com/xiaobianmu/hzyblog/refs/heads/main/%E4%B9%8C%E5%85%B0%E9%BA%A6%E6%9C%B5%E5%A4%B4%E5%83%8F2.png
 actions:
-  - text: Get Started
+  - text: 开始
     link: /get-started.html
     type: primary
 
