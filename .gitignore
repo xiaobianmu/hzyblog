@@ -1,0 +1,11 @@
+node_modules/
+
+docs/.vuepress/.cache/
+docs/.vuepress/.temp/
+docs/.vuepress/dist/
+
+vuepress-dev.log
+vuepress-dev.err
+
+.DS_Store
+Thumbs.db
